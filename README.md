@@ -21,3 +21,10 @@ As espécies da tabela e da árvore devem ser as mesmas.
 - html_compressed: arv_compr
 - html: arv_compl
 - Verbose: log do processo (True para aparecer o log, False para não aparecer)
+
+## Resultado
+### Árvore completa (arv_compl.html)
+![arv_compl](https://github.com/moniquesch/pastml-exemplo/blob/master/arv_compl.png)
+
+### Árvore resumida (arv_compr.html)
+![arv_compr](https://github.com/moniquesch/pastml-exemplo/blob/master/arv_compr.png)
