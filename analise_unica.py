@@ -3,6 +3,7 @@ from pastml.acr import pastml_pipeline
 dados = "dados.csv"
 arvore = "arvore.tre"
 
+#no arquivo de exemplo, a coluna é nomeada 'traits'
 colunas = ['Coluna1']
 
 arv_compl = "arv_compl.html"
